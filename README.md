@@ -1,4 +1,4 @@
-#Image Styling and Transformation
+# Image Styling and Transformation
 Amarpreet Kaur (amarpreet.kaur@torontomu.ca)
 Department of Computer Science | Toronto Metropolitan University
 
