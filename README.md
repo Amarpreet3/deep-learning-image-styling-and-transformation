@@ -15,7 +15,7 @@ A pre-trained VGG-19 encoder (from input layer to **relu41** layer; fixed during
 Stylization with both models requires guided filtering in ```utils/photo_gif.py``` as the post-processing. The file is adapted from the one used in the [PhotoWCT code](https://github.com/NVIDIA/FastPhotoStyle).
 
 ## Stylize images
-To stylize a room put the content room images in ```figures/content``` and the style images in ```figure/style``` then run ```relu_demo.ipynb```
+To stylize a room put the content room images in ```figures/content``` and the style images in ```figure/style``` then run ```relu_demo.py```
 
 ## Training
 ```train.py``` is the training code for our model. The usage is provided in the file.
