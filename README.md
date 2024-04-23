@@ -10,7 +10,7 @@ Amarpreet Kaur (amarpreet.kaur@torontomu.ca) | Department of Computer Science | 
 I applied BFA to the following model:
 A pre-trained VGG-19 encoder (from input layer to **relu41** layer; fixed during training) and a blockwisely trained decoder which can reproduce the **relu31**, **relu21**, **relu11** features and the input image. The ZCA transformations are embedded at the bottleneck and the reproduced reluN1 layers in the decoder.
     - The model is in ```utils/model_relu.py``` and the associated checkpoint is in ```ckpts/ckpts-relu```.
-    - A demo that uses this model to stylize example images in ```figures/``` is shown in ```relu_demo.ipynb```. The resulting stylized images are in ```results/```.
+    - A demo that uses this model to stylize example images in ```figures/``` is shown in ```relu_demo.py```. The resulting stylized images are in ```results/```.
 
 Stylization with both models requires guided filtering in ```utils/photo_gif.py``` as the post-processing. The file is adapted from the one used in the [PhotoWCT code](https://github.com/NVIDIA/FastPhotoStyle).
 
