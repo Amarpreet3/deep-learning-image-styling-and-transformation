@@ -6,6 +6,9 @@ Amarpreet Kaur (amarpreet.kaur@torontomu.ca) | Department of Computer Science | 
 
 
 
+![output_7_4](https://github.com/Amarpreet3/Deep-Learning-Image-Styling-and-Transformation/assets/96805692/62be244b-4777-4fa7-a7d1-c98999e7a417)
+
+
 ## Models and files
 I applied BFA to the following model:
 A pre-trained VGG-19 encoder (from input layer to **relu41** layer; fixed during training) and a blockwisely trained decoder which can reproduce the **relu31**, **relu21**, **relu11** features and the input image. The ZCA transformations are embedded at the bottleneck and the reproduced reluN1 layers in the decoder.
