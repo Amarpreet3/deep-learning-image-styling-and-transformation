@@ -92,7 +92,7 @@ def stylize_ot(c_feat, s_feat):
     feat = tf.matmul(opt, c_feat) + m_s
     return feat
 
-for n in tqdm(range(16)):
+for n in tqdm(range(22)):
     cont_img = load_img(f'figures/content/{n}.jpg')
     style_img = load_img(f'figures/style/{n}.jpg')
 
