@@ -101,7 +101,7 @@ If you find this code useful for your research, please cite:
 ```
 @misc{kaur2024photorealism,
   author = {Kaur, Amarpreet},
-  title = {deep-learning-image-styling-and-transformation},
+  title = {Image Styling and Transformation},
   publisher = {GitHub},
   organization={Toronto Metropolitan University, Canada},
   year = {2024},
