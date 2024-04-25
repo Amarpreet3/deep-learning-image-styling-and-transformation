@@ -26,7 +26,7 @@ To train my autoencoder, I utilize the MSCOCO dataset, which has been widely use
 [Download MSCOCO Dataset](https://cocodataset.org/#download)
 
 ### ADE20K Dataset
-For our initial semantic segmentation approach, I employ the ADE20K dataset. This dataset is instrumental in our experiments, featuring:
+For my initial semantic segmentation approach, I employ the ADE20K dataset. This dataset is instrumental in our experiments, featuring:
 **Training Set**: 25,574 images and **Validation Set**: 2,000 images
 
 
