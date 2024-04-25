@@ -93,5 +93,9 @@ Please check out the [FastPhotoStyle Tutorial](https://github.com/NVIDIA/FastPho
 
 ## Citation
 
-This README is designed to be straightforward, informative, and easy to navigate, providing all necessary details to understand, use, and contribute to the project effectively.
 
+
+## Contact
+Feel free to contact me if there is any question (Amarpreet Kaur amarpreet.kaur@torontomu.ca).
+
+This README is designed to be straightforward, informative, and easy to navigate, providing all necessary details to understand, use, and contribute to the project effectively.
