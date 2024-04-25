@@ -20,6 +20,8 @@ A pre-trained VGG-19 encoder (from input layer to **relu41** layer; fixed during
 
 Stylization with both models requires guided filtering in ```utils/photo_gif.py``` as the post-processing.
 
+
+
 ## Stylize images
 To stylize a image put the content images in ```figures/content``` and the style images in ```figure/style``` then run ```relu_demo.py```
 
@@ -28,7 +30,14 @@ To stylize a image put the content images in ```figures/content``` and the style
 
 ## Requirements 
 - tensorflow v2.0.0 or above (I developed the models with tf-v2.4.1 and I also tested them in tf-v2.0.0)
+- Python 3.x
+- keras 2.0.x
+- scikit-image
+  
+### Tutorial
 
+Please check out the [tutorial](TUTORIAL.md).
 ## Citation
+
 **PhotoWCT2: Compact Autoencoder for Photorealistic Style Transfer Resulting from Blockwise Training and Skip Connections of High-Frequency Residuals** published in WACV 2022.
 
