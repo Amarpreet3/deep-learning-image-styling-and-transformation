@@ -17,6 +17,23 @@ This project introduces a novel framework for photorealistic style transfer, des
 - **Efficient Photorealistic Style Transfer:** Achieves high-quality image transformations.
 - **Real-time Application:** Supports dynamic adjustments suitable for virtual environments and interactive workflows.
 - **Advanced Neural Architecture:** Utilizes a novel combination of neural network strategies for enhanced style transfer capabilities.
+
+  ## Repository Structure
+Here's a breakdown of the main directories and files in this repository:
+
+- **`.ipynb_checkpoints`**: Stores checkpoint files.
+- **`banner`**: Contains banner images or graphics used in documentation.
+- **`ckpts`**: Includes model checkpoints from training sessions, allowing model restoration or reuse.
+- **`dataset`**: Directory for dataset, including links for both MSCOCO and ADE20K datasets, subdivided by training, validation, and test sets.
+- **`figures`**: Holds example images for testing and demonstration purposes. This includes content and style images used in style transfer demonstrations.
+- **`final_add_3_decoder`**: Contains scripts and models specific to the `add_3_decoder` architecture variant used for advanced decoding tasks.
+- **`results`**: Output directory where stylized images are saved after processing.
+- **`resultsWCT(baseline)`**: Stores baseline results using the Whitening and Coloring Transform (WCT) technique for comparison with the new method.
+- **`utils`**: Utility scripts including support for image processing, model definitions, and other helper functions.
+- **`README.md`**: The main documentation file providing an overview and instructions for using this repository.
+- **`relu_demo.py`**: A demonstration script that shows how to apply the style transfer using the ReLU model configurations.
+- **`test.py`**: Script for testing the models with different configurations and datasets.
+- **`train.py`**: Contains the training code for the autoencoder, detailing setup, execution, and options for various training regimes.
 ## Datasets
 
 ### MSCOCO Dataset
