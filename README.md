@@ -28,4 +28,4 @@ To stylize a room put the content room images in ```figures/content``` and the s
 
 ## Citation
 **PhotoWCT2: Compact Autoencoder for Photorealistic Style Transfer Resulting from Blockwise Training and Skip Connections of High-Frequency Residuals** published in WACV 2022.
-*Note: Readme and code adapted from [PhotoWCT2](https://github.com/chiutaiyin/PhotoWCT2)
+
