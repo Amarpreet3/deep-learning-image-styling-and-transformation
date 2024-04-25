@@ -24,7 +24,7 @@ This project introduces a novel framework for photorealistic style transfer, des
 - **Real-time Application:** Supports dynamic adjustments suitable for virtual environments and interactive workflows.
 - **Advanced Neural Architecture:** Utilizes a novel combination of neural network strategies for enhanced style transfer capabilities.
 
-  ## Repository Structure
+## Repository Structure
 Here's a breakdown of the main directories and files in this repository:
 
 - **`.ipynb_checkpoints`**: Stores checkpoint files.
