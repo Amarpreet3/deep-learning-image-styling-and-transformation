@@ -15,7 +15,7 @@ A pre-trained VGG-19 encoder (from input layer to **relu41** layer; fixed during
     - The model is in ```utils/model_relu.py``` and the associated checkpoint is in ```ckpts/ckpts-relu```.
     - A demo that uses this model to stylize example images in ```figures/``` is shown in ```relu_demo.py```. The resulting stylized images are in ```results/```.
 
-Stylization with both models requires guided filtering in ```utils/photo_gif.py``` as the post-processing. The file is adapted from the one used in the [PhotoWCT code](https://github.com/NVIDIA/FastPhotoStyle).
+Stylization with both models requires guided filtering in ```utils/photo_gif.py``` as the post-processing.
 
 ## Stylize images
 To stylize a room put the content room images in ```figures/content``` and the style images in ```figure/style``` then run ```relu_demo.py```
