@@ -1,5 +1,11 @@
 ![Python 2.7](https://img.shields.io/badge/python-2.7-green.svg)
 ![Python 3.5](https://img.shields.io/badge/python-3.5-green.svg)
+![TensorFlow 2.4](https://img.shields.io/badge/TensorFlow-2.4-blue.svg)
+![Keras 2.0](https://img.shields.io/badge/Keras-2.0-red.svg)
+![scikit-image](https://img.shields.io/badge/scikit--image-latest-blue.svg)
+![NumPy](https://img.shields.io/badge/NumPy-latest-blue.svg)
+![Pillow](https://img.shields.io/badge/Pillow-latest-yellow.svg)
+
 
 # Image Styling and Transformation
 **Author: Amarpreet Kaur** | 📧 [Email](mailto:amarpreet.kaur@torontomu.ca) | 🏫 Toronto Metropolitan University
