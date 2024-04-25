@@ -72,7 +72,7 @@ To stylize a image put the content images in ```figures/content``` and the style
 
 ## Training
 ```train.py``` is the training code for our model. The usage is provided in the file.
-```
+
 Detailed usage instructions are inside the script.
 
 ## Requirements 
