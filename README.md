@@ -105,7 +105,7 @@ If you find this code useful for your research, please cite:
   publisher = {GitHub},
   organization={Toronto Metropolitan University, Canada},
   year = {2024},
-  howpublished = {\url{[https://github.com/LouieYang/deep-photo-styletransfer-tf](https://github.com/Amarpreet3/deep-learning-image-styling-and-transformation)}}
+  howpublished = {\url{(https://github.com/Amarpreet3/deep-learning-image-styling-and-transformation)}}
 }
 ```
 
