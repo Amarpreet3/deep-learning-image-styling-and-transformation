@@ -34,7 +34,7 @@ For my initial semantic segmentation approach, I employ the ADE20K dataset. This
 
 ## Models and files
 I applied BFA to the following model:
-A pre-trained VGG-19 encoder (from input layer to **relu41** layer; fixed during training) and a blockwisely trained decoder which can reproduce the **relu31**, **relu21**, **relu11** features and the input image. The ZCA transformations are embedded at the bottleneck and the reproduced reluN1 layers in the decoder.
+A pre-trained VGG-19 encoder (from input layer to **relu_4_1** layer; fixed during training) and a blockwisely trained decoder which can reproduce the **relu_3_1**, **relu_2_1**, **relu_1_1** features and the input image. The ZCA transformations are embedded at the bottleneck and the reproduced reluN1 layers in the decoder.
     - The model is in ```utils/model_relu.py``` and the associated checkpoint is in ```ckpts/ckpts-relu```.
     - A demo that uses this model to stylize example images in ```figures/``` is shown in ```relu_demo.py```. The resulting stylized images are in ```results/```.
 
