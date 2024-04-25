@@ -1,3 +1,6 @@
+![Python 2.7](https://img.shields.io/badge/python-2.7-green.svg)
+![Python 3.5](https://img.shields.io/badge/python-3.5-green.svg)
+
 # Image Styling and Transformation
 Amarpreet Kaur (amarpreet.kaur@torontomu.ca) |  Toronto Metropolitan University
 
