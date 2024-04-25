@@ -36,7 +36,7 @@ To stylize a image put the content images in ```figures/content``` and the style
   
 ### Tutorial
 
-Please check out the [tutorial](TUTORIAL.md).
+Please check out the [FastPhotoStyle Tutorial]((https://github.com/NVIDIA/FastPhotoStyle/blob/master/TUTORIAL.md)).
 ## Citation
 
 **PhotoWCT2: Compact Autoencoder for Photorealistic Style Transfer Resulting from Blockwise Training and Skip Connections of High-Frequency Residuals** published in WACV 2022.
