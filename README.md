@@ -93,6 +93,17 @@ Please check out the [FastPhotoStyle Tutorial](https://github.com/NVIDIA/FastPho
 
 ## Citation
 
+If you find this code useful for your research, please cite:
+```
+@misc{kaur2024photorealism,
+  author = {Kaur, Amarpreet},
+  title = {Deep-Learning-Image-Styling-and-Transformation},
+  publisher = {GitHub},
+  organization={Toronto Metropolitan University, Canada},
+  year = {2024},
+  howpublished = {\url{[https://github.com/LouieYang/deep-photo-styletransfer-tf](https://github.com/Amarpreet3/Deep-Learning-Image-Styling-and-Transformation)}}
+}
+```
 
 
 ## Contact
