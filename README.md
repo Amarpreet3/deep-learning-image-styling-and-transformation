@@ -90,7 +90,11 @@ Detailed usage instructions are inside the script.
 ### Tutorial
 
 Please check out the [FastPhotoStyle Tutorial](https://github.com/NVIDIA/FastPhotoStyle/blob/master/TUTORIAL.md).
-
+## References
+- Ultrafast photorealistic style transfer via neural architecture search : [Link](https://www.researchgate.net/publication/342541141_Ultrafast_Photorealistic_Style_Transfer_via_Neural_Architecture_Search)
+- Photowct2: Compact autoencoder for photorealistic style transfer resulting from blockwise training and skip connections of high-frequency residuals : [Link](https://arxiv.org/abs/2110.11995)
+- A neural algorithm of artistic style : [Link](https://arxiv.org/abs/1508.06576)
+- Universal style transfer via feature transformations : [Link](https://arxiv.org/abs/1705.08086)
 ## Citation
 
 If you find this code useful for your research, please cite:
